@@ -9,3 +9,7 @@ A repository for earning GitHub achievement badges.
 - 
 ## About
 Earned through the badge-collection project created to showcase GitHub achievements.
+
+## Contributors
+- aryanparihar157
+- ARYANPARIHAR1
