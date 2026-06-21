@@ -14,3 +14,5 @@ Earned through the badge-collection project created to showcase GitHub achieveme
 - aryanparihar157
 - ARYANPARIHAR1
 - - Update 5
+
+- Update 6
