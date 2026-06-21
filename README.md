@@ -6,3 +6,6 @@ A repository for earning GitHub achievement badges.
 - Quickdraw
 - YOLO
 - Pull Shark
+- 
+## About
+Earned through the badge-collection project created to showcase GitHub achievements.
